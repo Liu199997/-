@@ -1,0 +1,5 @@
+# 桌面运行（Kivy 2.x）
+kivy>=2.3.0
+kivy_deps.sdl2>=0.8.0
+kivy_deps.glew>=0.3.1
+kivy_deps.angle>=0.4.0
